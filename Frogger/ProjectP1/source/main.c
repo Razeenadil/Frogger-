@@ -1,7 +1,7 @@
 /*
 Project Part 1
 By: William Ho & Muhammad Adil
-UCID: 10173837 & 30069315
+
 
 This part of the project is just setting on all the lines on the SNES and setting inupt/output macros 
 that will be used for all pins during poject part 2. Right now the program tells the user to press a button,
