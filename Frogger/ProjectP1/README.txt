@@ -1,5 +1,5 @@
 By William Ho & Muhammad Adil
-UCID: 10173837 & 30069315
+
 
 Project Part 1:
 
