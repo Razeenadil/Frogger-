@@ -1,3 +1,5 @@
+Created by: William Ho and Razeen Adil 
+
 This project implements a version of the famous Frogger video game. Run the following commands to play the game. 
 
 make 
